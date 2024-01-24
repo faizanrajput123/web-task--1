@@ -34,12 +34,12 @@ margin-right: -15px;
 }
 
 .hero-text {
-    text-align: left;
+    margin-left: -2px;
     color: rgb(212, 212, 212)!important;
     position: absolute;
 transform: translatex(30%);
 top : 25%;
-left: 1px;
+
 }
 .hero-text h1{
     color: rgb(191, 104, 104)!important;
